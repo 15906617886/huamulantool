@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name = "huamulantool",
-    version = "0.1.9",
+    version = "0.1.10",
     # keywords = ("pip", "pathtool","timetool", "magetool", "mage"),
     description = "jdapi tool",
     long_description = "jdapi tool",
@@ -21,4 +21,5 @@ setup(
 # https://pypi.tuna.tsinghua.edu.cn/simple/huamulantool/
 # python setup.py sdist
 # twine upload dist/*
+# pip uninstall huamulantool
 # pip install huamulantool -i https://pypi.python.org/simple/
