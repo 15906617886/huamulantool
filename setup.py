@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name = "huamulantool",
-    version = "0.1.5",
+    version = "0.1.9",
     # keywords = ("pip", "pathtool","timetool", "magetool", "mage"),
     description = "jdapi tool",
     long_description = "jdapi tool",
